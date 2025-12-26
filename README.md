@@ -1,5 +1,6 @@
 # Project Kasir C++ Pemula
 ![Global Mandiri Bimbel-Yayasan Cahaya Putra Ilmu](https://github.com/Kazellen/Kasir/blob/main/logo-cpi.png?raw=true)
+
 Project ini berisi kode c++ untuk memasukkan daftar pembelian, sub total pembelian, harga total pembelian, dan pengembalian uang tunai pembayaran pada suatu kasir. Kode C++ ini dibangun sebagai syarat output hasil pelatihan tingkat pemula **Sesi II 2025** yang diselenggarakan oleh **Global Mandiri Bimbel (GMB)** dan **Yayasan Cahaya Putra Ilmu (YCPI)**, dibawah bimbingan [Ibnu Syuhada](https://github.com/ibnusyuhadap3). Kode dibuat dalam ekosistem Linux debian, tetapi support untuk lintas sistem operasi.
 
 ## Flowchart
