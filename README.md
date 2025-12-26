@@ -6,7 +6,7 @@ Project ini berisi kode c++ untuk memasukkan daftar pembelian, sub total pembeli
 ## Flowchart
 
 Program kasir ini dibangun berdasarkan algoritma yang tertuang dalam flowchart berikut:
-![Flowchart kasir]([https://image](https://github.com/Kazellen/Kasir/blob/main/kasir.png?raw=true))
+![Flowchart kasir](https://github.com/Kazellen/Kasir/blob/main/kasir.png?raw=true)
 
 ## Compile dan Run
 
